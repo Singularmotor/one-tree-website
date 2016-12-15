@@ -51,6 +51,24 @@ Screenshots
 ![image](https://github.com/xmChen24/one-tree/blob/master/image/11.png)
 
 
+Demo Show
+=
+
+* Animation 1
+
+![image](https://github.com/xmChen24/one-tree/blob/master/image/animate1.gif)
+
+
+* Animation 2
+
+![image](https://github.com/xmChen24/one-tree/blob/master/image/animate2.gif)
+
+Discuss
+=
+
+* [Submit Issue](https://github.com/xmChen24/one-tree/issues)
+* Email: xmchen24@gmail.com
+
 
 
 
