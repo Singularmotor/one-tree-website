@@ -28,27 +28,27 @@ Screenshots
 
 * Features Page
 
-![image](https://github.com/xmChen24/one-tree/blob/master/image/14818368051.png)
+![image](https://github.com/xmChen24/one-tree/blob/master/image/2.png)
 
 * Timeline Page
 
-![image](https://github.com/xmChen24/one-tree/blob/master/image/14818368741.png)
+![image](https://github.com/xmChen24/one-tree/blob/master/image/3.png)
 
 * Product Page
 
-![image](https://github.com/xmChen24/one-tree/blob/master/image/14818369231.png)
+![image](https://github.com/xmChen24/one-tree/blob/master/image/4.png)
 
 * Numbers Page
 
-![image](https://github.com/xmChen24/one-tree/blob/master/image/14818369631.png)
+![image](https://github.com/xmChen24/one-tree/blob/master/image/5.png)
 
 * Testimonials Page
 
-![image](https://github.com/xmChen24/one-tree/blob/master/image/14818369821.png)
+![image](https://github.com/xmChen24/one-tree/blob/master/image/6.png)
 
 * Contact Page
 
-![image](https://github.com/xmChen24/one-tree/blob/master/image/14818369931.png)
+![image](https://github.com/xmChen24/one-tree/blob/master/image/7.png)
 
 
 
